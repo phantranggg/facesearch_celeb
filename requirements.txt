@@ -1,0 +1,12 @@
+easydict==1.9
+numpy==1.17.3
+opencv-python==4.2.0.32
+Pillow==6.2.1
+tqdm==4.43.0
+dill==0.3.1.1
+faiss-cpu==1.6.1
+pickle5==0.0.9
+pyqt5==5.14.1
+pytorch-cpu==1.1.0
+torchvision-cpu==0.3.0
+mxnet==1.6.0
